@@ -2,7 +2,6 @@ package com.example.laborator7gui.Repository;
 
 import com.example.laborator7gui.Domain.Friendship;
 import com.example.laborator7gui.Domain.Tuple;
-import com.example.laborator7gui.Domain.User;
 import com.example.laborator7gui.Validators.Validator;
 
 import java.sql.*;

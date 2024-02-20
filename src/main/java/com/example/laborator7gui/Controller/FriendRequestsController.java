@@ -1,12 +1,9 @@
 package com.example.laborator7gui.Controller;
 
 import com.example.laborator7gui.Domain.*;
-import com.example.laborator7gui.Repository.*;
 import com.example.laborator7gui.Repository.Paging.Page;
 import com.example.laborator7gui.Repository.Paging.Pageable;
 import com.example.laborator7gui.Service.ServiceDB;
-import com.example.laborator7gui.Validators.Validator;
-import com.example.laborator7gui.Validators.ValidatorHelper;
 import com.example.laborator7gui.utils.events.UserTaskChangeEvent;
 import com.example.laborator7gui.utils.observer.Observer;
 import javafx.collections.FXCollections;

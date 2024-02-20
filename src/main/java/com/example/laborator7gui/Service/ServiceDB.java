@@ -7,7 +7,6 @@ import com.example.laborator7gui.Repository.Paging.Pageable;
 import com.example.laborator7gui.Repository.Paging.PagingRepository;
 import com.example.laborator7gui.Repository.Repository;
 import com.example.laborator7gui.utils.events.ChangeEventType;
-import com.example.laborator7gui.utils.events.MessageEvent;
 import com.example.laborator7gui.utils.events.UserTaskChangeEvent;
 import com.example.laborator7gui.utils.observer.Observable;
 import com.example.laborator7gui.utils.observer.Observer;

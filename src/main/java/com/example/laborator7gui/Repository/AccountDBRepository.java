@@ -1,7 +1,6 @@
 package com.example.laborator7gui.Repository;
 
 import com.example.laborator7gui.Domain.Account;
-import com.example.laborator7gui.Domain.User;
 import com.example.laborator7gui.Validators.Validator;
 
 import java.sql.*;

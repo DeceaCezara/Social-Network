@@ -1,10 +1,7 @@
 package com.example.laborator7gui.Controller;
 
 import com.example.laborator7gui.Domain.Account;
-import com.example.laborator7gui.Domain.FriendRequest;
-import com.example.laborator7gui.Domain.Status;
 import com.example.laborator7gui.Domain.User;
-import com.example.laborator7gui.Repository.Repository;
 import com.example.laborator7gui.Service.ServiceDB;
 import com.example.laborator7gui.utils.events.UserTaskChangeEvent;
 import com.example.laborator7gui.utils.observer.Observer;

@@ -3,8 +3,6 @@ package com.example.laborator7gui.Repository;
 import com.example.laborator7gui.Domain.*;
 import com.example.laborator7gui.Repository.Paging.Page;
 import com.example.laborator7gui.Repository.Paging.Pageable;
-import com.example.laborator7gui.Repository.Paging.PagingRepository;
-import com.example.laborator7gui.Validators.Validator;
 
 import java.sql.*;
 import java.time.LocalDateTime;
