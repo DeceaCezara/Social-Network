@@ -37,9 +37,9 @@ public class SignUpApplication extends Application {
 
     @Override
     public void start(Stage stage) throws IOException {
-        String url="jdbc:postgresql://localhost:5433/socialnetwork";
-        String username = "postgres";
-        String password = "1234";
+        String url="";
+        String username = "";
+        String password = "";
 
         validatorUser= ValidatorHelper::ValidUserName;
         repoUser = new UserDBRepository(url, username, password,validatorUser);
