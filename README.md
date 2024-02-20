@@ -18,6 +18,23 @@ The project served as an excellent opportunity to build upon my existing Java ex
 
 ## Application Features
 
-Upon opening the application, a login prompt will appear as shown below.
+Upon opening the application, a login prompt will appear as shown below. For security purposes, the password will not be visible while typing or after it has been entered.
 
+![login](https://github.com/DeceaCezara/Social-Network/assets/131918364/fab5083c-15e7-472f-ae68-202b318881a0)
+
+If you do not have an account, you can choose to sign up instead.
+
+![sign-up](https://github.com/DeceaCezara/Social-Network/assets/131918364/0a3a2a95-62fa-495a-90d7-59b9434a87f7)
+
+Upon logging in, users are directed to a personalized home page presenting a list of users to whom friendship requests can be sent. The application also provides the ability to manage your friends list. You can view and remove friends.
+
+![home](https://github.com/DeceaCezara/Social-Network/assets/131918364/5cf612df-6b6a-4cbc-80bf-d0cd56830e3f)
+
+Furthermore, you can respond to friend requests or send friend requests, as demonstrated below.
+
+![friend-request](https://github.com/DeceaCezara/Social-Network/assets/131918364/dc79a1b6-8e44-4861-a1b7-b5f75cc7a2a5)
+
+You can send messages to your friends too!
+
+![message](https://github.com/DeceaCezara/Social-Network/assets/131918364/1ec7c5c4-f8ef-473d-aba1-f60aec495551)
 
